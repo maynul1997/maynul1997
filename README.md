@@ -7,15 +7,12 @@
 
 ## 🧑‍💻 About Me:
 
-Hi, I'm **Md. Maynuddin** — a passionate and detail-driven **Software QA Engineer** with **2+ years** of experience in:
+👨🏻‍💻 I'm a Software Quality Assurance (SQA) Engineer with hands-on experience in both manual and automation testing.  
+👀 I’m passionate about Software Testing, Automation Engineering, AI, and Game Development.  
+🌱 I’m currently sharpening my skills in Automation Testing.  
+💼 I’m actively seeking new job opportunities in the QA/Automation field.  
+📫 Reach me at: onlyfaisalkabir@gmail.com
 
-✅ Manual & Automation Testing  
-✅ Functional Testing & Requirements Analysis  
-✅ Cross-Browser & Compatibility Testing  
-✅ Automation tools: **Cypress**, **TestCafe**, **Selenium**  
-✅ API Testing using **Postman**  
-✅ Test Case Design, Execution & Defect Reporting  
-✅ Tools: **Jira**, **Git**, **Postman**, **TestCafe**, **Cypress**, **Selenium**
 
 🔍 I specialize in finding critical bugs, ensuring user satisfaction, and improving product reliability.
 
