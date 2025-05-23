@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Md. Maynuddin 👋
 
 🚀 Software QA Engineer | Test Automation | Manual & API Testing  
@@ -89,10 +87,6 @@ Hi, I'm **Md. Maynuddin** — a passionate and detail-driven **Software QA Engin
   *Tools: Selenium, Java*
 
 ---
-
-## 📊 GitHub Stats:
-
-## 📊 GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&rank_icon=github)
 
