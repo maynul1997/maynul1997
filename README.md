@@ -6,7 +6,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF90&center=true&vCenter=true&width=600&lines=👨‍💻+Software+QA+Engineer;🚀+Open+to+Job+Opportunities;🧠+Manual+%7C+Automation+%7C+API+Tester;🔐+Web+App+Security+%7C+Vulnerability+Testing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF90&center=true&vCenter=true&width=600&lines=👨‍💻+Software+QA+Engineer;🚀+Open+To+Work;🧠+Manual+%7C+Automation+%7C+API+Tester;🔐+Web+App+Security+%7C+Vulnerability+Testing" alt="Typing SVG" />
 </p>
 
 <!-- Tech Stack Badges -->
