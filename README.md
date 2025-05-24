@@ -96,11 +96,11 @@
 
 ## 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&rank_icon=github)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maynul1997&show_icons=true&theme=tokyonight&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maynul1997&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=maynul1997&theme=tokyonight)
 
 
 ---
