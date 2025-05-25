@@ -27,8 +27,6 @@
 👨🏻‍💻 I'm a Software Quality Assurance (SQA) Engineer with hands-on experience in both **manual and automation** testing.  
 👀 I’m passionate about Software Testing, Automation Engineering, AI, and Security.  
 🌱 I’m currently sharpening my skills in Automation Testing.  
-📫 Reach me at: maynul.harf123@gmail.com
-
 
 🔍 I specialize in finding critical bugs, ensuring user satisfaction, and improving product reliability.
 
