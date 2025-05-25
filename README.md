@@ -35,7 +35,7 @@
 🚀 **Actively looking for new opportunities in the QA/Automation field** where I can contribute, grow, and work with cutting-edge technologies.
 
 📬 **Reach out:**
-- 📧 Email: maynul.harf123@gmail.com
+- 📧 Email: mamun.harf@gmail.com
 - 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/md-maynuddin-725369367/)  
 
 
